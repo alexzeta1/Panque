@@ -1,11 +1,11 @@
-#Objetivos
+# Objetivos
 Proceso
 
-#Proceso
+# Proceso
 Hacer panque
 
-#Otra línea de README
-
+# Otra línea de README
+Encabezados Bien
 1
 2
 3
