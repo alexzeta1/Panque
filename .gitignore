@@ -1,1 +1,8 @@
-ignorame
+#con ! niego exclusión para lograr incluirlos
+#con * agrego todo
+#!.readme.md
+
+#ignorar los archivos que terminancon mp3
+*mp3
+
+igno*
