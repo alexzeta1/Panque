@@ -1,8 +1,8 @@
-#Objetivos
+# Objetivos
 Proceso
 
-#Proceso
+# Proceso
 Hacer panque
 
-#caso de uso
+# caso de uso
 No se compraron lo ingredientes
